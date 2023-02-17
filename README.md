@@ -25,7 +25,7 @@ We will then conduct pressure-tests and bench-mark performance of different deep
 
 ## Explanation of Files
 
-|   **Column**   |   **Desciption**   |
+|   **Column**   |   **Description**   |
 |:--	         |:--	              |
 |   ```NeuralODE_Paper_Supplementary_Code```	|   Supplementary Code from Paper 1 	|
 |   ```Supplement Code Mathematica```	|   Supplementary Code from Paper 2	|
