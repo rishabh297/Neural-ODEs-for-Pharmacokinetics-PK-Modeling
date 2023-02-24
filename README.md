@@ -1,4 +1,6 @@
 
+<link rel="stylesheet" href="style.css">
+
 ![Neural-ode for pk-pd modelling (1)](https://user-images.githubusercontent.com/77791184/219721032-a87a7ba4-823f-4a01-aa9c-78466b1f6baa.png)
 
 
