@@ -1,6 +1,6 @@
 import argparse
 
-parser = argparse.ArgumentParser("nerual ODE model")
+parser = argparse.ArgumentParser("neural ODE model")
 
 parser.add_argument("--data", type=str, help="data file for processing")
 parser.add_argument("--fold", type=int, help="current fold number")

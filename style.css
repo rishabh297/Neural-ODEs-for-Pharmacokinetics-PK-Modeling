@@ -1,0 +1,38 @@
+body {
+  background-color: #1c1c1c;
+  color: #d4d4d4;
+}
+
+a {
+  color: #6699cc;
+}
+
+pre {
+  background-color: #2b2b2b;
+  color: #d4d4d4;
+  padding: 1em;
+}
+
+code {
+  background-color: #2b2b2b;
+  color: #d4d4d4;
+  padding: 0.2em;
+  font-size: 85%;
+  border-radius: 3px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #d4d4d4;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #d4d4d4;
+}
+
